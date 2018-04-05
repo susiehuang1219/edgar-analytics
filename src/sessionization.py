@@ -1,6 +1,6 @@
 
 """
-Author: Susie Huang
+@author: Susie Huang
 
 Solution:
 This program reads through the input file (log.csv) line by line using the 
